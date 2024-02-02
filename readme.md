@@ -1,5 +1,5 @@
 <p align='center'>
-<img src="[Front](https://github.com/ngoding-bro/schoolbot/blob/master/Media/Front.jpg)"
+<img src="https://github.com/ngoding-bro/schoolbot/blob/master/Media/Front.jpg"
 </p>
 # Halo!
 Selamat datang di Bot WhatsApp Sekolah, solusi inovatif yang dirancang khusus untuk memudahkan orang tua dalam memantau perkembangan pendidikan anak-anak mereka. Didukung oleh tren positif penggunaan WhatsApp dan kesadaran akan kebutuhan orang tua terhadap akses cepat dan mudah terhadap informasi, bot ini menyediakan berbagai fitur yang fokus pada pemantauan pembelajaran anak, tugas murid, absensi, dan detail kelas.
