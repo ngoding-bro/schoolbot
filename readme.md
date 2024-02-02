@@ -30,7 +30,7 @@ pastikan sudah terinstal dan aman
 ```bash
 npm start
 ```
-Oh iya! jangan lupa install database SQL nya https://github.com/ngoding-bro/Data/Table.sql (ganti nama database, localhost, dll sesuai dengan keinginan kalian)
+Oh iya! jangan lupa install database SQL nya https://github.com/ngoding-bro/blob/master/Data/Table.sql (ganti nama database, localhost, dll sesuai dengan keinginan kalian)
 dan jangan lupa untuk rubah data database di *msgHandlr.js*
 ```javascript
 //isi dengan databasemu sendiri!
